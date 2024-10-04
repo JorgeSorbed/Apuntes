@@ -10,5 +10,5 @@ El significado es la forma abstracta y mental del simbolo
 ## cap 2. Representación de símbolos de una máquina convencional
 Dentro de los ordenadores hay una memoria y lo que se puede hacer con la información es:
  -Memorizarla
- -Procesarla
- -Canalizarla/Transmitirla
+  -Procesarla
+  -Canalizarla/Transmitirla
